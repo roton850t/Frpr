@@ -1,4 +1,4 @@
 import forgetup_XD
 
 if __name__ == "__main__":
-    free_XD.sxr_secure_start()
+    forgetup_XD.sxr_secure_start()
